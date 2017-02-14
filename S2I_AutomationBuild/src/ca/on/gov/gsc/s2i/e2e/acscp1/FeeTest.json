@@ -1,0 +1,8 @@
+{
+id:'P1FeeTest',
+desc:'P1FeeTest',
+caseArray:[
+  {id:'01',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'true',skipWaiver:'false',primary:'false',liquid:'false',networth:'false',numOfInHouse:'1',grossRange:'4'},
+  {id:'02',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'false',childExpenseAddSE1:'true',skipWaiver:'true'},
+]
+}

@@ -1,0 +1,11 @@
+{
+id:'WaiverTest',
+desc:'WaiverTest',
+caseArray:[
+  {id:'01',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'true',skipWaiver:'false',primary:'false',liquid:'false',networth:'false',numOfInHouse:'2',grossRange:'2'},
+  {id:'02',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'false',skipWaiver:'false',primary:'false',liquid:'false',networth:'false',numOfInHouse:'1',grossRange:'1'},
+  {id:'03',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'false',skipWaiver:'false',primary:'false',liquid:'false',networth:'true',numOfInHouse:'1',grossRange:'5'},
+  {id:'04',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'false',skipWaiver:'false',primary:'false',liquid:'true',networth:'false',numOfInHouse:'1',grossRange:'5'},
+  {id:'05',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'false',skipWaiver:'false',primary:'true'},
+]
+}

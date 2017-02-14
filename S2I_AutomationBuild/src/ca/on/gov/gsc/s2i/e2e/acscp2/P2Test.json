@@ -1,0 +1,7 @@
+{
+id:'P2Test',
+desc:'P2Test',
+caseArray:[
+  {id:'01',desc:'test doc B',refNum:'2222PBT',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',childExpenseAddSE0:'true',skipWaiver:'false',primary:'false',liquid:'false',networth:'false',numOfInHouse:'1',grossRange:'4'},
+]
+}

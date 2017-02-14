@@ -1,0 +1,19 @@
+{
+id:'BannedTest',
+desc:'BannedTest',
+caseArray:[
+  {id:'01',desc:'ACSC-R11',isRecipient:'false',docType:'B',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'false',proofIncome:'true',incomeIsSeasonal:'true'},
+  {id:'02',desc:'ACSC-R10',isRecipient:'true',docType:'B',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'near',taxIsFiled:'true'},
+  {id:'03',desc:'ACSC-R09',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true',province:'BC'},
+  {id:'04',desc:'ACSC-R08',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'near',taxIsFiled:'true'},
+  {id:'05',desc:'ACSC-R07',isRecipient:'true',docType:'E',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'near',taxIsFiled:'true'},
+  {id:'06',desc:'ACSC-R07',isRecipient:'true',docType:'D',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'near',taxIsFiled:'true'},
+  {id:'07',desc:'ACSC-R06',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'true',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'08',desc:'ACSC-R05',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'false',agreeDate:'far',taxIsFiled:'true'},
+  {id:'09',desc:'ACSC-R04',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'false',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'10',desc:'ACSC-R03',isRecipient:'true',docType:'A',incAmt:'false',complexIncome:'false',liveInOntario:'false',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'11',desc:'ACSC-R02',isRecipient:'false',docType:'G',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'12',desc:'ACSC-R02',isRecipient:'false',docType:'C',incAmt:'false',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'13',desc:'ACSC-R01',isRecipient:'false',docType:'F',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'}
+]
+}

@@ -1,0 +1,8 @@
+{
+id:'P1ConditionTest',
+desc:'P1ConditionTest',
+caseArray:[
+  {id:'01',desc:'test doc B',isRecipient:'false',docType:'B',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+  {id:'02',desc:'test doc A',isRecipient:'false',docType:'A',incAmt:'true',complexIncome:'false',liveInOntario:'true',childInAge:'true',childPer:'true',agreeDate:'far',taxIsFiled:'true'},
+]
+}
