@@ -1,4 +1,4 @@
 attach/*
 */target/*
 */bin/*
-*.class
+*/*.class
